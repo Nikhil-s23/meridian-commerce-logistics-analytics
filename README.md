@@ -39,7 +39,7 @@ The original raw dataset was provided in **CSV format** and contains 662 rows ac
 
 The CSV was imported into Excel, where the original data was preserved unchanged in a dedicated `Raw_Data` sheet. A separate `Cleaned_Data` sheet contains the cleaned dataset with flag columns.
 
-The raw data contained the usual real-world data-quality issues, six different date formats in the same column, currency-symbol encoding issues, missing values represented five different ways, duplicate records, and business-rule violations.
+The raw data contained the usual real world data quality issues, six different date formats in the same column, currency symbol encoding issues, missing values represented five different ways, duplicate records, and business rule violations.
 
 **Raw records:** 662
 **Cleaned records:** 639
@@ -48,7 +48,7 @@ The raw data contained the usual real-world data-quality issues, six different d
 
 Used PivotTables to investigate which combinations of fulfillment center, region, shipping method, and time period were driving the problem, testing and ruling out hypotheses rather than simply reporting patterns.
 
-One finding (an unusually high cost at the Bengaluru center) was retracted mid-analysis after tracing it to a single outlier record.
+One finding (an unusually high cost at the Bengaluru center) was retracted mid analysis after tracing it to a single outlier record.
 
 ---
 
@@ -63,7 +63,7 @@ One finding (an unusually high cost at the Bengaluru center) was retracted mid-a
 
 ## Power BI Dashboard
 
-2-page dashboard with DAX measures, cross-page slicers, and conditional formatting. Page 1 covers the executive overview and time trend; Page 2 covers fulfillment center performance, cost analysis, and root-cause breakdown.
+2-page dashboard with DAX measures, cross page slicers, and conditional formatting. Page 1 covers the executive overview and time trend; Page 2 covers fulfillment center performance, cost analysis, and root-cause breakdown.
 
 ---
 
