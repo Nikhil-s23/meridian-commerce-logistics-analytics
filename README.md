@@ -1,8 +1,3 @@
-# meridian-commerce-logistics-analytics
-End-to-end Data Analytics case study using Excel and Power BI to clean, model, and analyze multi-system supply chain data for an omnichannel retailer, identifying root causes of delivery SLA breaches, RTO losses, and logistics cost overruns.
-
----
-
 # Meridian Commerce — Fulfillment Performance Analytics
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
